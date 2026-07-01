@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0146/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪家龜鑑
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1255.xml
+    old_id: X63n1255
+hash: sha256:845df64d206555fd111fa115b9971f2e3b95a63969a8caddfee9494291a07817

@@ -1,0 +1,282 @@
+canonical_identifier: bkk:krp/KR6q0146/v1
+canonical_location: https://kanripo.org/bkk/KR6q0146/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禪家龜鑑
+  identifiers:
+    alt_id:
+    - X63n1255
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1255.xml
+    old_id: X63n1255
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0146_000.yaml, hash: 'sha256:845df64d206555fd111fa115b9971f2e3b95a63969a8caddfee9494291a07817'}
+  - {seq: 1, filename: KR6q0146_001.yaml, hash: 'sha256:c25474f4f2e03d8581ae80e31105d271ff7e7abb0d0fa19c7f3fc8367b2faffb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0146_001.markers.yaml, hash: 'sha256:c789e96d13e5e395f2181f352c7436395e0f746b4128fc2eeb9f74e9671d1d57'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9698
+  label: 禪家龜鑑
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 釋詳辨宗途前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-2
+    span:
+    - body
+    - 7598
+    - 7598
+  label: 釋詳辨宗途
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-3
+    span:
+    - body
+    - 7733
+    - 7733
+  label: 臨濟宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-4
+    span:
+    - body
+    - 7838
+    - 7838
+  label: 曹洞宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-5
+    span:
+    - body
+    - 7884
+    - 7884
+  label: 雲門宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-6
+    span:
+    - body
+    - 7929
+    - 7929
+  label: 溈仰宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-7
+    span:
+    - body
+    - 7974
+    - 7974
+  label: 法眼宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-8
+    span:
+    - body
+    - 8019
+    - 8019
+  label: 臨濟家風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-9
+    span:
+    - body
+    - 8081
+    - 8081
+  label: 曹洞家風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-10
+    span:
+    - body
+    - 8147
+    - 8147
+  label: 雲門家風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-11
+    span:
+    - body
+    - 8203
+    - 8203
+  label: 溈仰家風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-12
+    span:
+    - body
+    - 8266
+    - 8266
+  label: 法眼家風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-13
+    span:
+    - body
+    - 8326
+    - 8326
+  label: 別明臨濟宗旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-14
+    span:
+    - body
+    - 8366
+    - 8366
+  label: 三句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-15
+    span:
+    - body
+    - 8388
+    - 8388
+  label: 三要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-16
+    span:
+    - body
+    - 8408
+    - 8408
+  label: 三玄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-17
+    span:
+    - body
+    - 8434
+    - 8434
+  label: 四料棟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-18
+    span:
+    - body
+    - 8470
+    - 8470
+  label: 四賓主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-19
+    span:
+    - body
+    - 8520
+    - 8520
+  label: 四照用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-20
+    span:
+    - body
+    - 8554
+    - 8554
+  label: 四大式(正利平常本分貢假)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-21
+    span:
+    - body
+    - 8593
+    - 8593
+  label: 四喝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-22
+    span:
+    - body
+    - 8647
+    - 8647
+  label: 八棒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-23
+    span:
+    - body
+    - 8715
+    - 8715
+  label: 釋詳辨宗途後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0146_X_001-mulu-24
+    span:
+    - body
+    - 9110
+    - 9110
+  label: No. 1255-A
+  type: mulu
+  level: 1
+hash: sha256:cc7b3ffb13be7881a051114d5fd96265d549e10f5337cfec42184cdd9d2a52cd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
